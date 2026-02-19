@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋 I'm Arihant
 
-<!--
-**Arihant3704/Arihant3704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Autonomous Systems | Computer Vision | FPGA-Accelerated AI | UAV Avionics
 
-Here are some ideas to get you started:
+🔭 I’m currently working as an ML/Engineering Intern at Docket Run, building production-focused machine learning systems and improving real-world deployment workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛩️ I also work on FPGA-based object detection (ZCU104), drone autonomy, and real-time edge AI systems
+
+🌱 I’m currently learning advanced ML pipelines, scalable inference systems, and hardware–software co-design
+
+👯 I’m looking to collaborate on computer vision, robotics, embedded AI, and autonomous UAV projects
+
+🤔 I’m exploring efficient model optimization, benchmarking, and production ML engineering practices
+
+💬 Ask me about YOLO training, ROS2 + Gazebo simulation, FPGA acceleration (Vitis AI), and edge deployment on Raspberry Pi
+
+📫 How to reach me: arihantappannavar@gmail.com
+
+🏆 Achievements: AIR 3 – SAE AeroTHON 2024 | AIR 2 – SAE ADDC 2024
+
+⚡ Fun fact: I love taking ML models from simulation all the way to real-world drone flights 🚁
