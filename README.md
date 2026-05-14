@@ -7,6 +7,7 @@
 🛩️ I also work on **FPGA-based object detection (ZCU104)**, drone autonomy, and real-time edge AI systems.
 
 🌐 **Portfolio:** https://arihant3704.github.io/
+🌐 **Roadmap:** https://roadmap.sh/u/arihant
 
 🌱 I’m currently learning advanced ML pipelines, scalable inference systems, and hardware–software co-design.
 
@@ -24,3 +25,4 @@
 * AIR 2 – SAE ADDC 2024
 
 ⚡ **Fun fact:** I love taking ML models from simulation all the way to real-world drone flights 🚁
+
